@@ -1,0 +1,2 @@
+My first component for a feature branch.
+My first commit in this branch.
